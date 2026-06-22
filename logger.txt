@@ -1,0 +1,18 @@
+Method -> GET  Time ->{Date.now() } Url=>/
+Method -> GET  Time ->{Date.now() } Url=>/api/users
+
+Method -> GET - Time ->{Date.now() }- Url=>/api/users
+
+Method -> GET - Time ->{Date.now() }- Url=>/api/users/2
+
+Method -> GET - Time ->{Date.now() }- Url=>/
+
+Method -> GET - Time ->{Date.now() }- Url=>/api/users
+
+Method -> GET - Time ->{Date.now() }- Url=>/api/users
+
+Method -> GET - Time ->{Date.now() }- Url=>/api/users
+
+Method -> GET - Time ->{Date.now() }- Url=>/api/users
+
+Method -> POST - Time ->{Date.now() }- Url=>/api/auth/login
